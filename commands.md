@@ -3,6 +3,7 @@
 
 | Command             | Function                                              |
 | --------------------|-------------------------------------------------------|
+|!bio                 | Basic information about me                            |
 |!cake                | Have a delicious slice of cake on me!                 |
 |!cmdlist             | List active channel commands                          |
 |!commands            | Links to this page                                    |
@@ -28,7 +29,7 @@
 |!songs               | Links to the playlists used on my stream              |
 |!sprinkles           | How many sprinkles do you have?                       |
 |!steam               | Will I add you on steam?                              |
-|!trade               | Tradelink                                             |
+|!trade               | Link to donate steam items or trade                   |
 |!ts                  | Link to join the community teamspeak                  |
 |!views               | How many people are watching the stream?              |
 |!xmage               | Link to download xmage                                |

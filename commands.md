@@ -13,6 +13,7 @@
 |!das                 | My affiliate link to Das Keyboards                    |
 |!esea                | Link to my ESEA profile                               |
 |!font                | How to change fonts on CS:GO                          |
+|!games               | List of games that have been played on stream         |
 |!group !steamgroup   | Link to the steam group <3                            |
 |!headset             | My headset                                            |
 |!hug                 | Give a random user in chat a hug                      |

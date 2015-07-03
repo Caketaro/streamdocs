@@ -1,6 +1,6 @@
 #Channel Games
 
-Played frequently (bold games are currently played)
+####Played frequently (bold games are currently played)
 *****
 **Counter-Strike: Global Offensive**  
 Cities: Skylines  

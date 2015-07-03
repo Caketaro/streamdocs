@@ -33,4 +33,5 @@
 |!trade               | Link to donate steam items or trade                   |
 |!ts                  | Link to join the community teamspeak                  |
 |!views               | How many people are watching the stream?              |
+|!wasted              | What games do I own?                                  |
 |!xmage               | Link to download xmage                                |

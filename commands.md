@@ -1,27 +1,29 @@
 #Chat Commands
 
 
-!cake  
-!crosshair  
-!csrank !rank !ranks  
-!custom  
-!das  
-!esea  
-!font  
-!group !steamgroup  
-!headset  
-!hug  
-!keyboard  
-!lefty  
-!mouse  
-!netgraph  
-!osu  
-!pass  
-!res  
-!sens  
-!social !twitter  
-!steam  
-!trade  
-!ts  
-!views  
-!xmage  
+| Command             | Function                                              |
+| :------------------:|-------------------------------------------------------|
+|!cake                | Have a delicious slice of cake on me!                 |
+|!crosshair           | My crosshair settings                                 |
+|!csrank !rank !ranks | My CS:GO rank, main and smurf                         |
+|!custom              | Use your sprinkles to buy a custom welcome message    |
+|!das                 | My affiliate link to Das Keyboards                    |
+|!esea                | Link to my ESEA profile                               |
+|!font                | How to change fonts on CS:GO                          |
+|!group !steamgroup   | Link to the steam group <3                            |
+|!headset             | My headset                                            |
+|!hug                 | Give a random user in chat a hug                      |
+|!keyboard            | My Keyboard                                           |
+|!lefty               | Why is my gun on the left side?                       |
+|!mouse               | My mouse                                              |
+|!netgraph            | My netgraph settings                                  |
+|!osu                 | Link to download Osu!                                 |
+|!pass                | Password to the Osu! lobby                            |
+|!res                 | CS:GO resolution settings                             |
+|!sens                | CS:GO mouse sensitivity settings                      |
+|!social !twitter     | Twitter link                                          |
+|!steam               | Will I add you on steam?                              |
+|!trade               | Tradelink                                             |
+|!ts                  | Link to join the community teamspeak                  |
+|!views               | How many people are watching the stream?              |
+|!xmage               | Link to download xmage                                |

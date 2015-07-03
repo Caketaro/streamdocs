@@ -7,10 +7,14 @@ Cities: Skylines
 **Dirty Bomb**  
 **Magic: The Gathering**  
 **Osu!**  
+The sims 4  
   
 **To be played in the future**
 *****
 Spintires  
+No Man's Sky _(pending release)_  
+Rainbow Six Siege _(release October 13, 2015)_  
+Telltale, Game of Thrones  
 
 **Played a few times**
 *****

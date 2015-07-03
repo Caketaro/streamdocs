@@ -25,6 +25,7 @@
 |!pass                | Password to the Osu! lobby                            |
 |!res                 | CS:GO resolution settings                             |
 |!sens                | CS:GO mouse sensitivity settings                      |
+|!smurf               | Link to my smurfs profile                            |
 |!social !twitter     | Twitter link                                          |
 |!song                | What song is currently playing?                       |
 |!songs               | Links to the playlists used on my stream              |

@@ -4,7 +4,7 @@
 *****
 **Counter-Strike: Global Offensive**  
 Cities: Skylines  
-Grand Theft Auto IV
+Grand Theft Auto IV  
 **Dirty Bomb**  
 H1Z1  
 **Magic: The Gathering**  

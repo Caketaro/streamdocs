@@ -1,6 +1,6 @@
 #Channel Games
 
-Played frequently (bold games are currently played)
+_*Played frequently (bold games are currently played)*_
 *****
 **Counter-Strike: Global Offensive**  
 Cities: Skylines  
@@ -8,9 +8,9 @@ Cities: Skylines
 **Magic: The Gathering**  
 **Osu!**  
   
-To be played in the future
+_*To be played in the future*_
 *****
 
 
-Played a few times
+_*Played a few times*_
 *****

@@ -10,7 +10,9 @@ Cities: Skylines
   
 **To be played in the future**
 *****
-
+Spintires  
 
 **Played a few times**
 *****
+Call of Juarez: Gunslinger _(single playthrough)_  
+Tomb Raider GOTY _(single playthrough)_  

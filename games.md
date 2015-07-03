@@ -18,8 +18,10 @@ Spintires
 No Man's Sky _(pending release)_  
 Rainbow Six Siege _(release October 13, 2015)_  
 Overwatch _(pending release)_  
+S.T.A.L.K.E.R. Call of Pripyat  
 Telltale, Game of Thrones  
-The Witcher 3  
+Rayman Legends  
+The Witcher 3: Wild Hunt  
 
 **Played a few times**
 *****
@@ -32,6 +34,7 @@ Outlast
 Ori and the Blind Forest _(single playthrough)_  
 Putt-Putt Goes to the Moon _(single playthrough)_  
 Surgeon Simulator 2013  
+The Walking Dead, Season 1 and 2 _(single playthrough)_  
 Tomb Raider GOTY _(single playthrough)_  
 Zombie Army Trilogy  
 

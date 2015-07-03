@@ -2,8 +2,10 @@
 
 
 | Command             | Function                                              |
-| :------------------:|-------------------------------------------------------|
+| --------------------|-------------------------------------------------------|
 |!cake                | Have a delicious slice of cake on me!                 |
+|!cmdlist             | List active channel commands                          |
+|!commands            | Links to this page                                    |
 |!crosshair           | My crosshair settings                                 |
 |!csrank !rank !ranks | My CS:GO rank, main and smurf                         |
 |!custom              | Use your sprinkles to buy a custom welcome message    |
@@ -23,6 +25,7 @@
 |!sens                | CS:GO mouse sensitivity settings                      |
 |!social !twitter     | Twitter link                                          |
 |!song                | What song is currently playing?                       |
+|!songs               | Links to the playlists used on my stream              |
 |!sprinkles           | How many sprinkles do you have?                       |
 |!steam               | Will I add you on steam?                              |
 |!trade               | Tradelink                                             |

@@ -22,6 +22,8 @@
 |!res                 | CS:GO resolution settings                             |
 |!sens                | CS:GO mouse sensitivity settings                      |
 |!social !twitter     | Twitter link                                          |
+|!song                | What song is currently playing?                       |
+|!sprinkles           | How many sprinkles do you have?                       |
 |!steam               | Will I add you on steam?                              |
 |!trade               | Tradelink                                             |
 |!ts                  | Link to join the community teamspeak                  |

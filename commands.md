@@ -4,7 +4,7 @@
 | Command             | Function                                              |
 | --------------------|-------------------------------------------------------|
 |!bio                 | Basic information about me                            |
-|!cake                | Have a delicious slice of cake on me!                 |
+|!cake                | Have a delicious slice of cake on me! (100 sprinkles) |
 |!cmdlist             | List active channel commands                          |
 |!commands            | Links to this page                                    |
 |!crosshair           | My crosshair settings                                 |
